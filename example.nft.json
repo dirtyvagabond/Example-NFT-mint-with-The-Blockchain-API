@@ -1,0 +1,34 @@
+{
+    "name": "My Nft",
+    "symbol": "MYNFT",
+    "description": "Example NFT by Aaron",
+    "seller_fee_basis_points": 400,
+    "image": "https://arweave.net/xkUaXfhuLDNgLOcmWYrHp5ygb2i0nN4wtIB5AoLFMl4",
+    "attributes": [
+        {
+            "trait_type": "coder",
+            "value": "Aaron"
+        },
+        {
+            "trait_type": "mood",
+            "value": "WAGMI"
+        },
+        {
+            "trait_type": "github",
+            "value": "https://git.io/J1DuX"
+        }
+    ],
+    "collection": {
+        "name": "My NFT Collection",
+        "family": "Example NFT Stuff"
+    },
+    "properties": {
+        "category": "image",
+        "creators": [
+            {
+                "address": "4BwiRPwmMF6ZgcxeMRNZZ3aek6DiFumEhE4YLBXdLtBg",
+                "share": 100
+            }
+        ]
+    }
+}
