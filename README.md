@@ -15,4 +15,4 @@ The example code uses JSON metadata already uploaded to Arweave for the NFT's as
 
 The example JSON metadata is also in this repo as a convenient reference/example, see `example.nft.json`.
 
-Many thanks to [Josh Wolf](https://github.com/joshwolff1) over at [The Blockchain API](https://theblockchainapi.com/) for all the help!
+Many thanks to [Josh Wolff](https://github.com/joshwolff1) over at [The Blockchain API](https://theblockchainapi.com/) for all the help!
